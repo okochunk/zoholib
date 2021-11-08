@@ -1,0 +1,19 @@
+{
+    "name": "yls/zoholib",
+    "description": "Zoholib - service to connect zoho desk.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hendar Ismanto",
+            "email": "hendar.online@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Yls\\Zoholib\\": "src/"
+        }
+    },
+    "require": {}
+}

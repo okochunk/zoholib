@@ -1,6 +1,9 @@
 # zoholib
 laravel simple zoho library 
 
+#installation 
+composer create-project yls/zoholib
+
 Library to use part of https://desk.zoho.com/DeskAPIDocument list of feature
 * Authentication(OAuth) Generate Refresh Token
 * Generate Access Token
